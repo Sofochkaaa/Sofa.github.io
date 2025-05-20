@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Первая веб-страница Шульга Софья</title>
+</head>
+<body>
+    Ура! Это моя первая веб-страница. Поставьте мне оценку "5"
+    <br><br>
+    <img src="kartinka.webp" alt="Мой рисунок">
+</body>
+</html>
